@@ -1,5 +1,5 @@
 
-# pandas_challenge2
+# Schools Analysis
 #
 Observable Trends Based on Data:
 1.	Comparing the 5 top performing schools with 5 bottom performing schools, we can see that the 5 schools with best percentage overall passing are all Charter type school, while the bottom performing schools are district type. Based on the summary below, we can also see that:
